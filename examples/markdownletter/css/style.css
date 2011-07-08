@@ -1,0 +1,52 @@
+
+#letter {
+	float: left;
+	margin-right: 1em;
+
+}
+
+#letter textarea{
+	font: 10pt Arial,sans-serif;
+	background-color: #ffffff;
+	border: 1px solid #999999;
+	width:600px;
+	height:760px;
+	background-image:url('letter.png');
+	background-repeat:no-repeat;
+	background-position:right top;
+  -moz-box-shadow: 0 1px 10px rgba(0,0,0,0.5);
+  -webkit-box-shadow: 0 1px 10px rgba(0,0,0,0.5);
+  margin-left: 3em;
+}
+
+#footer{
+	padding-top: 5px;
+	clear: both;
+	color: #999999;
+	margin-left: 3em;
+	font-size: 10pt;
+}
+
+.button_large {
+  font-size: 18pt;
+  text-align: center;
+  color: #FFF;
+  font-weight: bold;
+  background-color: #CCCCCC;
+  border:1px solid;
+  border-color: #999999;
+  padding: 5px 10px 5px 10px;
+  vertical-align:top;
+  -moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+}
+
+.button {
+  color: #000000;
+  background-color: #EEEEEE;
+  border:1px solid;
+  border-color: #999999;
+  vertical-align:top;
+}
