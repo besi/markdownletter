@@ -5,6 +5,10 @@
 
 }
 
+#markdownText{
+	font-family: Courier, monospace;
+}
+
 #letter textarea{
 	font: 10pt Arial,sans-serif;
 	background-color: #ffffff;
