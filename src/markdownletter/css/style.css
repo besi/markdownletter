@@ -1,8 +1,11 @@
-
 #letter {
 	float: left;
 	margin-right: 1em;
 
+}
+
+#markdownText{
+	font-family:Courier, monospace;
 }
 
 #letter textarea{
