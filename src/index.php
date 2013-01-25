@@ -8,8 +8,8 @@ require_once('./classes/Constants.class.php');
 	<title><?php echo TITLE; ?></title> 
 	<META NAME="Description" CONTENT="MarkdownLetter: The most simple way to write letters with Markdown. Write simple and nicely formated letters in Markdown. http://www.unicate.ch">
 	<meta name="viewport" content="width=device-width, initial-scale=1"> 
-	<link rel="apple-touch-icon" href="/site/css/mdl-apple-touch-icon" />
-	<link rel="icon" type="image/png" href="/site/css/mdl-favicon" />
+	<link rel="apple-touch-icon" href="css/mdl-apple-touch-icon" />
+	<link rel="icon" type="image/png" href="css/mdl-favicon" />
 	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
 	<script src="http://code.jquery.com/jquery-1.8.0.min.js"></script>
 	<script type="text/javascript">
