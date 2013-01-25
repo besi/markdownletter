@@ -36,6 +36,6 @@ Installation
 Download mPDF v5.4 from [mpdf].
 Unzip folder into /lib/mpdf/.
 
-[mdl]: http://unicate.ch/markdownletter
+[MarkdownLetter]: http://unicate.ch/markdownletter
 [Markdown]: http://en.wikipedia.org/wiki/Markdown
 [mpdf]: http://www.mpdf1.com/mpdf/download
