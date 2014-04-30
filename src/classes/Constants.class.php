@@ -11,7 +11,7 @@
 @define(VERS, "Version 1.0");
 @define(MAILTO, "<a href=\"mailto:info@unicate.ch\">Contact</a>");
 @define(DISCLAIMER, "<a href=\"http://wiki.unicate.ch/Disclaimer\">Disclaimer</a>");
-@define(CREDITS, "MarkdownLetter is powered by <a href=\"http://michelf.com/projects/php-markdown/\">PHP Markdown</a> and <a href=\"http://mpdf.bpm1.com/\">mPDF</a>");
+@define(CREDITS, "<a href=\"https://github.com/unicate/markdownletter\">MarkdownLetter</a> is powered by <a href=\"http://michelf.com/projects/php-markdown/\">PHP Markdown</a> and <a href=\"http://mpdf.bpm1.com/\">mPDF</a>");
 
 @define(TEMPLATE_PATH, "./templates/");
 @define(DEFAULT_TEXT, "defaultLetter.md.txt");
